@@ -1,0 +1,9 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Users\Miras\AppData\Local\Programs\IntelliJ IDEA Community Edition\lib\idea_rt.jar=51344:C:\Users\Miras\AppData\Local\Programs\IntelliJ IDEA Community Edition\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Miras\IdeaProjects\Function\out\production\Function;C:\Users\Miras\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib\2.0.0\kotlin-stdlib-2.0.0.jar;C:\Users\Miras\.m2\repository\org\jetbrains\annotations\13.0\annotations-13.0.jar MainKt
+Sir Lancelot charges with a sword!
+I am Sir Lancelot, a brave knight!
+Sir Lancelot, the knight, died with honor!
+Robin Hood shoots an arrow!
+I am Robin Hood, a skilled archer!
+Robin Hood, the archer, was struck down!
+
+Process finished with exit code 0
