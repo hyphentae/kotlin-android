@@ -1,0 +1,13 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Users\Miras\AppData\Local\Programs\IntelliJ IDEA Community Edition\lib\idea_rt.jar=50457:C:\Users\Miras\AppData\Local\Programs\IntelliJ IDEA Community Edition\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Miras\IdeaProjects\Variables\out\production\Variables;C:\Users\Miras\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib\2.0.0\kotlin-stdlib-2.0.0.jar;C:\Users\Miras\.m2\repository\org\jetbrains\annotations\13.0\annotations-13.0.jar MainKt
+Miras
+Моя любимая цитата - Лучше быть последним — первым, чем первым — последним
+Она не пуста, как я думал
+Эти две строки не равны
+MIRAS и miras совпадают
+Это имя используется второе поколение
+Я нашел!
+Miras
+5
+Эти два символа не равны
+
+Process finished with exit code 0
