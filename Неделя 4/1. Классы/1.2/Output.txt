@@ -1,0 +1,9 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Users\Miras\AppData\Local\Programs\IntelliJ IDEA Community Edition\lib\idea_rt.jar=57969:C:\Users\Miras\AppData\Local\Programs\IntelliJ IDEA Community Edition\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Miras\IdeaProjects\Classess\out\production\Classess;C:\Users\Miras\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib\2.0.0\kotlin-stdlib-2.0.0.jar;C:\Users\Miras\.m2\repository\org\jetbrains\annotations\13.0\annotations-13.0.jar MainKt
+Информация о воинах:
+Геркулес, Возраст: 30, Тип воина: Неизвестно
+Леонид, Возраст: 40, Тип воина: Спартанец
+Квадробер, Возраст: 12, Тип воина: Эльф
+Неизвестно, Возраст: 18, Тип воина: Неизвестно
+Неизвестно, Возраст: 25, Тип воина: Неизвестно
+
+Process finished with exit code 0
