@@ -1,0 +1,12 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Users\Miras\AppData\Local\Programs\IntelliJ IDEA Community Edition\lib\idea_rt.jar=53034:C:\Users\Miras\AppData\Local\Programs\IntelliJ IDEA Community Edition\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Miras\IdeaProjects\Function\out\production\Function;C:\Users\Miras\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib\2.0.0\kotlin-stdlib-2.0.0.jar;C:\Users\Miras\.m2\repository\org\jetbrains\annotations\13.0\annotations-13.0.jar MainKt
+Miras Zhumazhan. Birthday: 5 October
+Сколько шагов вы хотите сделать? 1000
+И сколько шагов вы сделали? 500
+Вы почти на полпути!
+Введите первое число: 14
+Введите втоое число: 28
+Второе число больше, чем второе
+Количество вхождений символа 'o' в строке "hello world": 2
+Сумма чисел: 160
+
+Process finished with exit code 0
