@@ -1,0 +1,11 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Users\Miras\AppData\Local\Programs\IntelliJ IDEA Community Edition\lib\idea_rt.jar=56971:C:\Users\Miras\AppData\Local\Programs\IntelliJ IDEA Community Edition\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Miras\IdeaProjects\Variable\out\production\Variable;C:\Users\Miras\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib\2.0.0\kotlin-stdlib-2.0.0.jar;C:\Users\Miras\.m2\repository\org\jetbrains\annotations\13.0\annotations-13.0.jar MainKt
+Miras Zhumazhan
+a: 32, b: 4, sum: 36
+Алихан, Мақсат, Мұхаммед, Алина
+Возраст Алихана: 4, Мақсата: 7, Мұхаммеда: 12, Алины: 15
+Количество страниц в книге: 592, Прочитанно страниц: 12
+День: 31
+Высота в метрах: 3.8
+π равен: 3.141592653589793
+https://open.spotify.com/track/6cEI7u5eOOQTmoOtSBwTp8?si=6675d0872a4a4d7c
+Process finished with exit code 0
