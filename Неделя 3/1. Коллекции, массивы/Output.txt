@@ -1,0 +1,10 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Users\Miras\AppData\Local\Programs\IntelliJ IDEA Community Edition\lib\idea_rt.jar=53609:C:\Users\Miras\AppData\Local\Programs\IntelliJ IDEA Community Edition\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Miras\IdeaProjects\Array\out\production\Array;C:\Users\Miras\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib\2.0.0\kotlin-stdlib-2.0.0.jar;C:\Users\Miras\.m2\repository\org\jetbrains\annotations\13.0\annotations-13.0.jar MainKt
+Сумма всех элементов массива: 15
+Элементы массива в обратном порядке: [Чреешня, Бнаан, Ялбоко]
+Все элементы равны true: false
+Группировка элементов: {true=[true, true, true], false=[false]}
+Список после удаления первого элемента: [Карамбола, Питайя, Чомпу, Саподилла]
+Среднее значение всех элементов: 81.66666666666667
+Количество раз, когда число 5 встречается в списке: 1
+
+Process finished with exit code 0
